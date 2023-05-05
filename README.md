@@ -4,8 +4,7 @@
 
   
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dudabrandao&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda Ferreira Brandão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudabrandao&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://camo.githubusercontent.com/2afcdef949f1ed674a1c3654c2ee526c76c4da7aef46b4e0d07819e3557da827/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6166692d303138266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d30306266626626746578745f636f6c6f723d3030626662662662675f636f6c6f723d306431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudabrandao&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=00bfbf&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
 
 <div  align="center"> 
